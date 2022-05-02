@@ -1,0 +1,4 @@
+1.film - Lalalend
+2.series - AmericanFamily
+3.season - summer
+4.country - Canada

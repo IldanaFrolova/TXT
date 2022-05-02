@@ -1,0 +1,8 @@
+1.skills1 - gitbush
+2.skills2 -javascript
+3.skills3 - github
+4.skills4 - postman
+5.skills5 - sql
+6.skills6 - python
+7.skills7 - qualitytesting
+
