@@ -1,1 +1,4 @@
-3. Внутри локального TXT создать файл “new.txt”
+1.Name - Ildana
+2. age - 39
+3.numberofpets - 1
+4.salary - 2000
